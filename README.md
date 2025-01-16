@@ -1,4 +1,4 @@
-# PDF_Scrapper
+# PDF Scrapper
 
 ## Library for scrapping and RPA in PDF files.
 
