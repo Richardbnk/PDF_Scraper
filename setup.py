@@ -4,12 +4,12 @@ with open('requirements.txt') as f:
     required = f.read().splitlines()
 
 setuptools.setup(
-    name='pdf_scraper',
+    name='pdf_scrapper',
     version='1.0.0',
     author="Richard Raphael Banak",
     description="Library for scrapping and RPA in PDF files.",
-    url="https://github.com/Richardbnk/pdf_scraper",
-    packages=['pdf_scraper'],
+    url="https://github.com/Richardbnk/pdf_scrapper",
+    packages=['pdf_scrapper'],
     
     py_modules = ['PyPDF2'],
     
