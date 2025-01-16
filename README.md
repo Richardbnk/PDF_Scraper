@@ -11,13 +11,13 @@ Name: Richard Raphael Banak
 To install, run the command:
 
 ```python
-pip install git+https://github.com/Richardbnk/PDF_Scrapper
+pip install git+https://github.com/Richardbnk/PDF_Scraper
 ```
 
 To update your packge use the command:
 
 ```python
-pip install --upgrade git+https://github.com/Richardbnk/PDF_Scrapper
+pip install --upgrade git+https://github.com/Richardbnk/PDF_Scraper
 ```
 
 ### Requirements
