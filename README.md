@@ -1,4 +1,4 @@
-# PDF Scrapper
+# PDF Scraper
 
 ## A versatile library for scraping data and automating workflows in PDF files using RPA techniques, enabling efficient data extraction and manipulation.
 
